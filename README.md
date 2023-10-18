@@ -11,7 +11,7 @@ Before you begin, make sure you have the following prerequisites:
 
 ## Step 1: Start Jasmin Service
 
-1. Start the Jasmin service .
+1. Make sure that jasmin service is started.
 
 ## Step 2: Create Test User Credentials
 
